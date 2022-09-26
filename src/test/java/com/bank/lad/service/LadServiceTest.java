@@ -29,7 +29,6 @@ public class LadServiceTest {
 	@InjectMocks
 	private LadService ladService;
 	
-	private LadModel ladModel;
 	
 	@Test
 	public void getAllDataTest(){
